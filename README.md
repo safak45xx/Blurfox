@@ -38,3 +38,4 @@ macOS - Users/<USERNAME>/Library/Application Support/Firefox/Profiles/XXXXXXX.de
 🌄To change the wallpaper, place the wallpaper inside the chrome folder and rename it as "123.jpg". If you don't want to use a wallpaper, you can remove the first line of code in the usercontent.css file.
 
 📄I set the font as the Apple system font, but it can cause issues on some websites. If you don't want to use a fixed font, you can delete the "font-family" line from the second row in the usercontent.css file.
+
