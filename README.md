@@ -20,9 +20,9 @@
   
   layers.acceleration.force-enabled
   
-  gfx.webrender.all
+  gfx.webrender.all 
   
-  gfx.webrender.enabled
+  gfx.webrender.enabled (Boolean- true)
   
   layout.css.backdrop-filter.enabled
 
