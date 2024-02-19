@@ -11,6 +11,8 @@
 
 🔍I have some small ideas about my [future](https://github.com/safak45xx/Blurfox-MacOS-/issues/2) plans. If you have any feedback or suggestions to add, please let me know.
 
+🔴If you'd like to help me [resolve](https://github.com/safak45xx/Blurfox-MacOS-/issues/4) some of the issues I'm experiencing, please feel free to stop by and lend a hand.
+
 ------------------
 ⌚️Installation
 
@@ -19,6 +21,7 @@
 2- A dialog will warn you, but ignore it, just do it press the I accept the risk! button.
 
 3- Search for these:
+
   toolkit.legacyUserProfileCustomizations.stylesheets
   
   layers.acceleration.force-enabled
