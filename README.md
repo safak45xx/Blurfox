@@ -13,6 +13,8 @@
 
 🔴If you'd like to help me [resolve](https://github.com/safak45xx/Blurfox-MacOS-/issues/4) some of the issues I'm experiencing, please feel free to stop by and lend a hand.
 
+⛔️I'm new to GitHub usage, I've tried to keep the homepage as simple and understandable as possible. Please let me know if you have any suggestions
+
 ------------------
 ⌚️Installation
 
