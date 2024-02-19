@@ -11,11 +11,11 @@
 2- A dialog will warn you, but ignore it, just do it press the I accept the risk! button.
 
 3- Search for these:
-toolkit.legacyUserProfileCustomizations.stylesheets
-layers.acceleration.force-enabled
-gfx.webrender.all
-gfx.webrender.enabled
-layout.css.backdrop-filter.enabled
+  toolkit.legacyUserProfileCustomizations.stylesheets
+  layers.acceleration.force-enabled
+  gfx.webrender.all
+  gfx.webrender.enabled
+  layout.css.backdrop-filter.enabled
 
 Then make sure to enable them all!
 
