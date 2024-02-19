@@ -1,0 +1,14 @@
+#statuspanel {
+  display: none !important;
+}
+.tab-icon-overlay {
+ &:is([soundplaying], [muted], [activemedia-blocked]) {
+   
+      display: none !important;
+  }
+}
+* {
+-moz-osx-font-smoothing:auto !important;
+ font-family: -apple-system, system-ui, BlinkMacSystemFont !important;
+   scrollbar-width: none !important;
+   }
