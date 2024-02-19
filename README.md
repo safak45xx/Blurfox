@@ -9,6 +9,9 @@
 
 🙌🏻My English is a bit poor, I may make spelling mistakes in some places, sorry for that.
 
+🔍I have some small ideas about my [future](https://github.com/safak45xx/Blurfox-MacOS-/issues/2) plans. If you have any feedback or suggestions to add, please let me know.
+
+------------------
 ⌚️Installation
 
 1-Open about:config page.
