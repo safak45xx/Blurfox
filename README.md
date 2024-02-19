@@ -1,4 +1,4 @@
-🚀 Welcome to Blurfox!
+🚀 Welcome to Blurfox! (BETA)
 
 ![Ekran Resmi 2024-02-19 16 52 37](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/327a594c-4fac-4675-8ffe-f6812112e852)
 ![Ekran Resmi 2024-02-19 16 53 06](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/01030bf7-6a0f-4986-a4ea-de0b3ce5104f)
