@@ -1,5 +1,7 @@
 🚀 Welcome to Blurfox!
-![Ekran Resmi 2024-02-19 16 42 41](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/53a675f0-23e4-40bf-a8cf-8f69ea8f8d76)![Ekran Resmi 2024-02-19 16 43 00](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/8d0d402f-0678-4c44-bf2e-6df3c993d184)
+
+![Ekran Resmi 2024-02-19 16 52 37](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/327a594c-4fac-4675-8ffe-f6812112e852)
+![Ekran Resmi 2024-02-19 16 53 06](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/01030bf7-6a0f-4986-a4ea-de0b3ce5104f)
 
 
 
