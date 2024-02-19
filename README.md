@@ -22,7 +22,7 @@
   
   gfx.webrender.all 
   
-  gfx.webrender.enabled (Boolean- true)
+  gfx.webrender.enabled (Boolean + button .. true)
   
   layout.css.backdrop-filter.enabled
 
