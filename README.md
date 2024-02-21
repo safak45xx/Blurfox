@@ -4,6 +4,10 @@
 ![Ekran Resmi 2024-02-19 16 53 06](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/01030bf7-6a0f-4986-a4ea-de0b3ce5104f)
 
 
+                  
+  [![Github All Release](https://img.shields.io/github/downloads/safak45xx/Blurfox-MacOS-/total.svg)]()  
+ 
+
 
 👍🏻 Due to the significant attention my post received on [Reddit](https://www.reddit.com/r/FirefoxCSS/comments/1au0bw0/blurfox/), I wanted to celebrate this by creating a GitHub page. I am grateful for your interest, but I am new to CSS, and with your help, I aim to create a flawless experience
 
