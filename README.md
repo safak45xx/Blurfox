@@ -19,6 +19,16 @@
 
 ⛔️I'm new to GitHub usage, I've tried to keep the homepage as simple and understandable as possible. Please let me know if you have any suggestions
 
+
+Custom WebSites
+------------------
+![Ekran Resmi 2024-02-22 17 50 44](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/ab941290-004e-47c1-b6fa-2f7dda98179c)
+
+The new feature - why limit it to just the browser blur? I've applied the blur effect to popular sites with the same design style (currently only Reddit).
+
+⛔️It's entirely up to you whether you want to use it. If you don't want to use it, you can delete the 'web' folder from the Chrome directory.
+
+
 ------------------
 ⌚️Installation
 
