@@ -1,4 +1,9 @@
 For now, I'll add blur and change the design of the following websites.
+
 1.Reddit
+
+
 2.Instgram
+
+
 3.Youtube
