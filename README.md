@@ -26,6 +26,8 @@ Custom WebSites
 
 The new feature - why limit it to just the browser blur? I've applied the blur effect to popular sites with the same design style (currently only Reddit).
 
+To see more [sites](https://github.com/safak45xx/Blurfox-MacOS-/blob/main/Custom-Websites.md)
+
 ⛔️It's entirely up to you whether you want to use it. If you don't want to use it, you can delete the 'web' folder from the Chrome directory.
 
 
