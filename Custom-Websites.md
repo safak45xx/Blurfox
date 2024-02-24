@@ -13,4 +13,16 @@ For now, I'll add blur and change the design of the following websites.
 ![Ekran Resmi 2024-02-23 02 51 58](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/6a56ebc2-d550-4c68-8082-4ba9c9156708)
 ![Ekran Resmi 2024-02-23 02 52 13](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/a94896a8-d908-44ba-ad5d-743db67ab7f0)
 
+----------------------------
+**Instagram**
+Coming soon.
 
+
+----------------------------
+**Github**
+Coming soon.
+
+
+----------------------------
+**Netflix**
+Coming soon.
