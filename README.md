@@ -67,5 +67,4 @@ macOS - Users/<USERNAME>/Library/Application Support/Firefox/Profiles/XXXXXXX.de
 
 🕷️Please report the bugs you encounter with images or videos if possible. I will do my best to solve them, and if you know any solutions, please let me know.
 
-Source
 Thank You akkva
