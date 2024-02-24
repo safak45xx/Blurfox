@@ -5,7 +5,8 @@
 
 
                   
-  [![Github All Release](https://img.shields.io/github/downloads/safak45xx/Blurfox-MacOS-/total.svg)]()  [![Build Status](https://img.shields.io/github/stars/safak45xx/Blurfox-MacOS-.svg)](https://github.com/safak45xx/Blurfox-MacOS-) 
+  [![Github All Release](https://img.shields.io/github/downloads/safak45xx/Blurfox-MacOS-/total.svg)]() ![GitHub Release](https://img.shields.io/github/v/release/safak45xx/Blurfox-MacOS-)
+ [![Build Status](https://img.shields.io/github/stars/safak45xx/Blurfox-MacOS-.svg)](https://github.com/safak45xx/Blurfox-MacOS-) 
  
 
 
