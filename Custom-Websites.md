@@ -14,6 +14,19 @@ For now, I'll add blur and change the design of the following websites.
 ![Ekran Resmi 2024-02-23 02 52 13](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/a94896a8-d908-44ba-ad5d-743db67ab7f0)
 
 ----------------------------
+**Google**
+
+![Ekran Resmi 2024-02-25 05 33 22](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/e76e8085-a829-46da-8bad-def6cda20d36)
+![Ekran Resmi 2024-02-25 05 32 51](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/26a7c22c-bade-4415-b1f0-c4c8f8654332)
+
+----------------------------
+**Facebook**
+
+![Ekran Resmi 2024-02-25 05 35 23](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/3135e027-392f-4df5-af52-6f6b7938802d)
+![Ekran Resmi 2024-02-25 05 34 52](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/434d7690-7da1-4066-8b09-34b0d8f83b17)
+![Ekran Resmi 2024-02-25 05 34 18](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/0a34a3f4-01bc-4713-abd5-b22140a031aa)
+
+----------------------------
 **Instagram**
 Coming soon.
 
