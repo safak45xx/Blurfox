@@ -26,6 +26,13 @@ For now, I'll add blur and change the design of the following websites.
 ![Ekran Resmi 2024-02-25 05 34 52](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/434d7690-7da1-4066-8b09-34b0d8f83b17)
 ![Ekran Resmi 2024-02-25 05 34 18](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/0a34a3f4-01bc-4713-abd5-b22140a031aa)
 
+
+----------------------------
+**DuckDuckGo**
+![Ekran Resmi 2024-02-25 18 14 44](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/7fdd2f8c-eacd-4133-babc-cd7b4c729e8b)
+![Ekran Resmi 2024-02-25 18 15 22](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/35ad685f-8a78-4515-a343-1ee96fd8e444)
+
+
 ----------------------------
 **Instagram**
 Coming soon.
