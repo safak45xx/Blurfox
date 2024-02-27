@@ -23,7 +23,8 @@
 
 Custom WebSites
 ------------------
-![Ekran Resmi 2024-02-22 17 50 44](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/ab941290-004e-47c1-b6fa-2f7dda98179c)
+![Ekran Resmi 2024-02-27 05 37 00](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/ec9654a7-21ae-4a36-81ce-b670dd164c6c)
+
 
 The new feature - why limit it to just the browser blur? I've applied the blur effect to popular sites with the same design style.
 
