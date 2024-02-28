@@ -1,7 +1,11 @@
+
+![affdb4d491a588af77c3f199bf69d422-32bits-48](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/10007d37-6f4a-4e4e-9bfb-555765cdc5cc)
+
 🚀 Welcome to Blurfox! (BETA) 
 
-![Ekran Resmi 2024-02-19 16 52 37](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/327a594c-4fac-4675-8ffe-f6812112e852)
-![Ekran Resmi 2024-02-19 16 53 06](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/01030bf7-6a0f-4986-a4ea-de0b3ce5104f)
+![Ekran Resmi 2024-02-28 07 12 40](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/3f439df6-6e29-440c-8394-0917b9c34e09)
+
+![Ekran Resmi 2024-02-28 07 13 17](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/74fbac5a-944d-45bd-aab5-0d7919e35036)
 
 
                   
@@ -51,7 +55,7 @@ macOS - Users/<USERNAME>/Library/Application Support/Firefox/Profiles/XXXXXXX.de
 
 ------------------
 
-🌄To change the wallpaper, place the wallpaper inside the  newtabs folder and rename it as "123.jpg". If you don't want to use a wallpaper, you can remove the first line of code in the newtabs.css file.
+🌄You placed two wallpapers named 123-dark.png and 123-light.png in the 'newtabs' folder to create a dynamic wallpaper.
 
 🕷️Please report the bugs you encounter with images or videos if possible. I will do my best to solve them, and if you know any solutions, please let me know.
 
