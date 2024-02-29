@@ -1,7 +1,7 @@
 
 ![affdb4d491a588af77c3f199bf69d422-32bits-48](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/10007d37-6f4a-4e4e-9bfb-555765cdc5cc)
 
-🚀 Welcome to Blurfox! (BETA) 
+🚀 **Welcome to Blurfox!** (BETA) 
 
 ![Ekran Resmi 2024-02-28 07 12 40](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/3f439df6-6e29-440c-8394-0917b9c34e09)
 
@@ -26,7 +26,7 @@
 
 
 ------------------
-⌚️Installation
+⌚️**Installation**
 
 1-Open about:config page.
 
@@ -54,6 +54,7 @@ macOS - Users/<USERNAME>/Library/Application Support/Firefox/Profiles/XXXXXXX.de
 6-Restart Firefox.
 
 ------------------
+**Customize**
 
 🥸If you want to disable wallpaper or reset the logo to default, you can check the first lines of code in the 'newtabs.css' file in the 'newtabs' folder.
 
