@@ -1,0 +1,185 @@
+
+@-moz-document url(about:newtab), url(about:home) { 
+  
+  /* Background image disable delete */
+  .outer-wrapper {
+    background-image: var(--gnome-wallpaper) !important; 
+     background-position: 20% 0 !important; 
+  transition: background-position 1s ease-in-out !important; 
+  }
+  
+   /* Blurfox text disable delete */ 
+  .wordmark {
+  background: var(--gnome-logo) no-repeat center center !important;
+width: 180px !important;
+margin-left:22px !important;
+}
+  
+  /* logo disable delete */
+  .logo {
+    background-image: url(logo.png) !important;
+}
+
+
+  /* ----------------------------- */ 
+  * {
+    -moz-osx-font-smoothing:auto !important;
+ font-family: -apple-system, system-ui, BlinkMacSystemFont !important;
+  }
+  
+
+   :root .icon-pin-small {
+    display: none !important;
+}
+  
+.context-menu {
+
+font-size: 12.5px !important;
+  border:1px solid var(--gnome-kose) !important;
+background:var(--gnome-darko) !important;
+backdrop-filter: blur(33px) !important;
+border-radius: 8px !important;
+
+}
+.context-menu > ul > li {
+  width: 97% !important;
+  margin:auto  !important;
+  margin-bottom: 3px !important;
+  
+}
+
+ .card-outer{
+  
+  border-radius: 12px !important;
+   border:1px solid var(--gnome-kose) !important;
+background-color: var(--gnome-darko) !important;
+  
+ 
+}
+
+  .card-details {
+    border-bottom-left-radius: 12px !important;
+    border-bottom-right-radius: 12px !important;
+  }
+  .card-preview-image-outer,
+  .card-details{
+    backdrop-filter: blur(33px) !important;
+  }
+  .context-menu-button {
+    border-radius: 12px !important;
+       border:1px solid var(--gnome-kose) !important;
+background-color: var(--gnome-darko) !important;
+  }
+.top-site-outer .title {
+  color:var(--gnome-yazi) !important;
+}
+
+.customize-menu {
+
+  border-radius: 12px !important;
+  margin-right: 12px !important;
+ background:var(--gnome-darko) !important;
+ backdrop-filter: blur(33px) !important;
+height:97% !important;
+  margin-top: 15px !important;
+  border:1px solid var(--gnome-kose) !important;
+}
+
+.context-menu > ul > li > button:is(:focus, :hover) {
+  border-radius: 4px !important;
+  background: var(--gnome-alan) !important;
+  color:white !important;
+
+}
+  .top-sites-list:not(.dnd-active) .top-site-outer:is(.active, :focus, :hover) {
+    background: var(--gnome-darko) !important;
+  }
+.home-section .section .selector {
+  background: var(--gnome-darko) !important;
+}
+.top-site-outer .tile {
+   border:1px solid var(--gnome-kose) !important;
+  backdrop-filter: blur(33px) !important;
+  background: var(--gnome-darko) !important;
+  border-radius: 12px !important;
+}
+
+
+.search-wrapper .search-handoff-button,
+.search-wrapper input  {
+  border-radius: 12px !important;
+   border:1px solid var(--gnome-kose) !important;
+background-color: var(--gnome-darko) !important;
+  backdrop-filter: blur(33px) !important;
+}
+.top-site-outer .top-site-icon {
+  background-color: transparent !important;
+}
+
+:root[lwt-newtab-brighttext] {
+  --newtab-element-hover-color:var(--gnome-darko) !important;
+
+}
+.card-context {
+  display: none !important;
+}
+
+.card-preview-image-outer {
+  border-radius: 12px 12px 0 0 !important;
+}
+.modalOverlayOuter {
+  background: none !important;
+}
+.context-menu > ul > li.separator {
+  display: none !important;
+}
+.topsite-form .form-wrapper input[type=text] {
+  background: var(--gnome-darko)  !important;
+  border-radius:8px !important;
+}
+.modal-overlay {
+  background: none !important;
+  top:4% !important;
+
+}
+.pip-wrapper {
+  background: var(--gnome-darko) !important;
+  border-radius: 12px !important;
+}
+.home-section .divider {
+display:none !important;
+}
+
+
+
+@media (prefers-color-scheme: dark) {
+   .outer-wrapper {
+    background-position: 0 0 !important; /* Yeni tema için sola doğru geçiş */
+  }
+  
+  :root {
+--gnome-darko:#31313175;
+--gnome-kose:rgba(255,255,255,0.1);
+    --gnome-alan:#185bc6;
+  --gnome-yazi:#fff;
+    --gnome-logo:url(blurfox-dark.svg);
+    --gnome-wallpaper:url(123-dark.png);
+
+    }
+}
+@media (prefers-color-scheme: light) {
+  :root {
+--gnome-darko:#f1f1f175;
+--gnome-kose:rgba(0,0,0,0.1);
+    --gnome-alan:#52a1ff;
+    --gnome-yazi:#030303;
+    --gnome-wallpaper:url(123-light.png);
+    --gnome-logo:url(blurfox-light.svg);
+
+    }
+}
+  
+}
+*{
+  scrollbar-width: none !important;
+}
