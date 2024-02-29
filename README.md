@@ -55,6 +55,8 @@ macOS - Users/<USERNAME>/Library/Application Support/Firefox/Profiles/XXXXXXX.de
 
 ------------------
 
+🥸If you want to disable wallpaper or reset the logo to default, you can check the first lines of code in the 'newtabs.css' file in the 'newtabs' folder.
+
 🌄You placed two wallpapers named 123-dark.png and 123-light.png in the 'newtabs' folder to create a dynamic wallpaper.
 
 🕷️Please report the bugs you encounter with images or videos if possible. I will do my best to solve them, and if you know any solutions, please let me know.
