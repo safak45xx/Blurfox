@@ -1,0 +1,245 @@
+@namespace xul "http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul";
+
+#nav-bar, #PersonalToolbar, #toolbar-menubar, #titlebar {
+	color: var(--gnome-toolbar-color);
+	background: var(--gnome-toolbar-background) !important;
+        border-bottom: 1px ridge rgba(125, 125, 125, .1) !important;
+}
+
+
+
+#navigator-toolbox {
+	border: none !important;
+	background: none !important;
+}
+
+.toolbarbutton-icon {
+	color: var(--gnome-toolbar-color);
+	fill: var(--gnome-toolbar-color);
+}
+
+#nav-bar {
+        order: 0 !important;
+	border: none !important;
+	box-shadow: none !important;
+        padding: 12px 6px 8px 82px !important;
+}
+
+#nav-bar .chromeclass-location {
+	-moz-window-dragging: drag;
+}
+
+#titlebar {
+        order: 1 !important;
+	min-height: 0 !important
+	max-height: 42px !important;
+}
+
+#PersonalToolbar {
+        order: 2 !important;
+	padding: 3px !important;
+	height: 32px !important;
+	max-height: 32px !important;
+}
+
+#TabsToolbar {
+        margin-left: 466px !important;
+        margin-right: 90px !important;
+	margin-top: -41px !important;
+	margin-bottom: 12px !important;
+        padding: 0 !important;
+	background: none !important;
+	max-height: 42px !important;
+}
+
+#TabsToolbar #alltabs-button {
+	position: absolute !important;
+        top: 15px;
+	left: 432px;
+        z-index: 5;
+        min-width: 30px !important;
+        max-width: 30px !important;
+        min-height: 30px !important;
+        max-height: 30px !important;
+        border-radius: 5px !important;
+        background: none !important;
+}
+
+#TabsToolbar #alltabs-button:hover {
+        background: url("../icons/bg.svg") center/cover no-repeat !important;
+}
+
+#TabsToolbar #alltabs-button[open] {
+        background: url("../icons/bg.svg") center/cover no-repeat, url("../icons/bg.svg") center/cover no-repeat !important;
+}
+
+:root[sizemode="maximized"] #TabsToolbar {
+	margin-left: 466px !important;
+}
+
+:root[tabsintitlebar][inFullscreen] #TabsToolbar {
+	margin-left: 429px !important;
+        margin-right: 160px !important;
+}
+
+:root[tabsintitlebar][inFullscreen] #nav-bar {
+	padding-left: 5px !important;
+}
+
+:root[tabsintitlebar][inFullscreen] #alltabs-button {
+	left: 355px !important;
+}
+
+/* Customization page */
+#customization-container:-moz-lwtheme {
+	background-image: linear-gradient(var(--gnome-browser-before-load-background), var(--gnome-browser-before-load-background)) !important;
+}
+
+#customization-footer {
+	border-top: 1px solid var(--gnome-toolbar-border-color) !important;
+	color: var(--gnome-toolbar-color) !important;
+	background: var(--gnome-toolbar-background) !important;
+	border-radius: 0 0 12px 12px !important;
+}
+
+/* bookmark-item */
+
+
+.bookmark-item[type="menu"][container]::after {
+  content: "ˇ";
+  font-size: 10px;
+  margin: 5px 0 0 5px !important;
+  opacity: .6 !important;
+}
+
+/* * * */
+findbar {
+  position: absolute !important;
+  top: 1%;
+  width: 780px !important;
+  border-radius: 12px !important;
+  border: 1px solid var(--gnome-kose) !important;
+  box-shadow: 0 10px 15px rgb(0 0 0 / 20%) !important;
+  background: var(--gnome-bul) !important;
+  backdrop-filter:blur(33px) !important;
+  left:calc(50% + -390px) !important;
+}
+
+.findbar-textbox, .findbar-textbox:-moz-window-inactive {
+  background: none !important;
+  width: 100px !important;
+  border: none !important;
+}
+
+.findbar-textbox {
+	outline-style: solid !important;
+	outline-color: transparent !important;
+	outline-width: 5px !important;
+}
+
+.findbar-textbox[focused],
+.findbar-textbox:focus {
+	outline-color: var(--gnome-focused-urlbar-border-color) !important;
+	outline-width: 2px !important;
+	transition: all .3s cubic-bezier(1, 0, 0, 1) !important;
+}
+
+.found-matches { width: 100% !important; }
+
+#search-box, xul|search-textbox {
+  appearance: none !important;
+  border-bottom: 1px solid rgba(185, 185, 185, .1) !important;
+  border-radius: 8px !important;
+  height: 28px !important;
+  max-height: 28px !important;
+  padding: 6px !important;
+  background-color: light-dark(rgba(102, 105, 108, .1), rgba(165, 165, 165, .1)) !important;
+}
+
+#search-box[focused], xul|search-textbox[focused] {
+  outline: 2px solid var(--gnome-focused-urlbar-border-color) !important;
+  outline-offset: -1px;
+  -moz-outline-radius: 8px;
+  transition: outline 100ms ease-out;
+}
+
+#urlbar:hover #tracking-protection-icon-container:not(:hover, :active, [open])::after {
+  content: "";
+  position: absolute;
+  display: block;
+  height:  18px ;
+  right: -1px;
+  top: 2px;
+  border-right: 1px solid color-mix(in srgb, currentColor 20%, transparent);
+}
+
+@media (-moz-platform: windows) {
+
+body {
+        background-color: var(--gnome-sidebar-background) !important;
+}
+
+#nav-bar {
+	padding: 13px 6px 8px 82px !important;
+}
+
+#nav-bar .chromeclass-location {
+	-moz-window-dragging: no-drag !important;
+}
+
+#TabsToolbar #alltabs-button {
+        top: 16px;
+}
+
+:root[tabsintitlebar][inFullscreen] #TabsToolbar {
+	margin-bottom: 12px !important;
+}
+
+:root[tabsintitlebar][inFullscreen] #alltabs-button {
+	visibility: hidden;
+}
+
+:root[tabsintitlebar][inFullscreen] #navigator-toolbox:hover #alltabs-button {
+	visibility: visible;
+}
+
+:root[sizemode="maximized"] #TabsToolbar {
+	margin-left: 506px !important;
+}
+
+@media (prefers-color-scheme: dark) {
+* {
+  --organizer-pane-background: #2d2d2d !important;
+  --organizer-toolbar-background: #333 !important;
+  --organizer-content-background: #333 !important;
+  --organizer-hover-background: #2e2e2f !important;
+  --organizer-selected-background: #2e2e2f !important;
+  --sidebar-border-color: #2c2d2d !important;     
+}
+
+treecol {
+  background-color: #333 !important;
+}
+
+richlistitem {
+  color: #fff !important;
+}
+
+}
+
+richlistitem[selected="true"] {
+  background: none !important;
+}
+
+#downloadsListBox {
+  overflow-x: hidden;
+  border: 0 !important;
+}
+
+toolbarbutton:-moz-window-inactive, #alltabs-button:-moz-window-inactive {
+	opacity: 50% !important;
+}
+
+findbar { width: 860px !important; } 
+
+}
