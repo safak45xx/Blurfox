@@ -1,2 +1,11 @@
 @import "Newtabs/newtabs.css";
 
+/*Custom Websites*/
+@import "Web/github.css";
+@import "Web/youtube.css";
+@import "Web/netflix.css";
+@import "Web/reddit.css";
+@import "Web/facebook.css";
+@import "Web/instagram.css";
+@import "Web/duckduckgo.css";
+@import "Web/google.css";
