@@ -38,8 +38,8 @@ Currently active websites
 
 
 🔴It may cause high CPU usage.
-⛔️If you want to disable it, you can delete the custom website section from the usercontext.css file.
 
+⛔️If you want to disable it, you can delete the custom website section from the usercontext.css file.
 
 ------------------
 ⌚️**Installation**
