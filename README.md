@@ -23,6 +23,22 @@
 🔴If you'd like to help me [resolve](https://github.com/safak45xx/Blurfox-MacOS-/issues/4) some of the issues I'm experiencing, please feel free to stop by and lend a hand.
 
 ⛔️I'm new to GitHub usage, I've tried to keep the homepage as simple and understandable as possible. Please let me know if you have any suggestions
+------------------
+**Custom Websites**
+![Ekran Resmi 2024-03-04 01 12 35](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/b61f1880-6b61-410a-a20d-b100df073784)
+
+![Ekran Resmi 2024-03-04 01 19 45](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/d67ad213-a1ce-4b46-8415-40b5363db724)
+
+Currently active websites
+
+-Github
+-Facebook
+-Youtube
+-Google
+
+
+🔴It may cause high CPU usage.
+⛔️If you want to disable it, you can delete the custom website section from the usercontext.css file.
 
 
 ------------------
