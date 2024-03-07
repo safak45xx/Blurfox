@@ -72,6 +72,10 @@ macOS - Users/<USERNAME>/Library/Application Support/Firefox/Profiles/XXXXXXX.de
 ------------------
 **Customize**
 
+➡️After adding extension icons, there are distortions in the tabs. The solution is to go to Chrome > Monterey > Parts > Toolbox.css and follow the steps indicated in the first line.
+![Ekran Resmi 2024-03-07 19 45 31](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/483ea141-2b54-460a-a551-64aeb9a52ebc)
+
+
 🥸If you want to disable wallpaper or reset the logo to default, you can check the first lines of code in the 'newtabs.css' file in the 'newtabs' folder.
 
 🌄You placed two wallpapers named 123-dark.png and 123-light.png in the 'newtabs' folder to create a dynamic wallpaper.
