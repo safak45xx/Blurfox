@@ -73,6 +73,7 @@ macOS - Users/<USERNAME>/Library/Application Support/Firefox/Profiles/XXXXXXX.de
 **Customize**
 
 ➡️After adding extension icons, there are distortions in the tabs. The solution is to go to Chrome > Monterey > Parts > Toolbox.css and follow the steps indicated in the first line.
+
 ![Ekran Resmi 2024-03-07 19 45 31](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/483ea141-2b54-460a-a551-64aeb9a52ebc)
 
 
