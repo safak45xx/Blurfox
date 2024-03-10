@@ -12,7 +12,7 @@
   [![Github All Release](https://img.shields.io/github/downloads/safak45xx/Blurfox-MacOS-/total.svg)]() ![GitHub Release](https://img.shields.io/github/v/release/safak45xx/Blurfox-MacOS-)
  [![Build Status](https://img.shields.io/github/stars/safak45xx/Blurfox-MacOS-.svg)](https://github.com/safak45xx/Blurfox-MacOS-) 
  
-
+💀[Windows Support](https://github.com/safak45xx/Blurfox-MacOS-/issues/12)
 
 👍🏻 Due to the significant attention my post received on [Reddit](https://www.reddit.com/r/FirefoxCSS/comments/1au0bw0/blurfox/), I wanted to celebrate this by creating a GitHub page. I am grateful for your interest, but I am new to CSS, and with your help, I aim to create a flawless experience
 
