@@ -48,7 +48,9 @@ Currently active websites
 
 ![dasdas](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/3cc03a77-b9ad-4077-94b8-09f9a48c25ea)
 
--👉🏻[Please write your requests and suggestions here.](https://github.com/safak45xx/Blurfox-MacOS-/issues/17)
+⛔️ If you don't intend to use it, you can delete the codes under chrome-usercontect.css-/Extensions/.
+
+👉🏻[Please write your requests and suggestions here.](https://github.com/safak45xx/Blurfox-MacOS-/issues/17)
 
 ------------------
 ⌚️**Installation**
