@@ -43,7 +43,6 @@ Currently active websites
 ------------------
 **Custom Extensions**
 [TWP - Translate Web Pages](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-![dasdas](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/219e060e-802f-4ff3-8524-ecd13008ea1e)
 
 ---![dasdas](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/3cc03a77-b9ad-4077-94b8-09f9a48c25ea)
 
