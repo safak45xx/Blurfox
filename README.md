@@ -34,6 +34,7 @@ Currently active websites
 -Facebook
 -Youtube
 -Google
+-Duckduckgo
 
 
 🔴It may cause high CPU usage.
