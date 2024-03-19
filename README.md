@@ -91,6 +91,9 @@ macOS - Users/<USERNAME>/Library/Application Support/Firefox/Profiles/XXXXXXX.de
 
 🔍To close the statupanel, remove the /* next to display:none under chrome>customized
 
+![Ekran Resmi 2024-03-19 17 25 57](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/c81e7eea-f9e0-4a94-b4d3-98e46951f8a7)
+
+
 ➡️After adding extension icons, there are distortions in the tabs. The solution is to go to Chrome > Customized.css and follow the steps indicated in the first line.
 
 ![Ekran Resmi 2024-03-07 19 45 31](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/483ea141-2b54-460a-a551-64aeb9a52ebc)
