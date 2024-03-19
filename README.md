@@ -49,6 +49,11 @@ Currently active websites
 
 ![dasdas](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/3cc03a77-b9ad-4077-94b8-09f9a48c25ea)
 
+[SponsorBlock](https://addons.mozilla.org/tr/firefox/addon/sponsorblock/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+![Ekran Resmi 2024-03-16 21 05 57](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/9fcb5a29-2d69-4550-b5d5-901aea6ab4c4)
+
+
 ⛔️ If you don't intend to use it, you can delete the codes under chrome-usercontect.css-/Extensions/.
 
 👉🏻[Please write your requests and suggestions here.](https://github.com/safak45xx/Blurfox-MacOS-/issues/17)
