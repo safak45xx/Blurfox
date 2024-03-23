@@ -36,6 +36,7 @@ Currently active websites
 -Google
 -Duckduckgo
 -Twitter
+-Yandex
 
 
 🔴It may cause high CPU usage.
