@@ -3,12 +3,10 @@
 
 🚀 **Welcome to Blurfox!** (BETA) 
 
-![Ekran Resmi 2024-02-28 07 12 40](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/3f439df6-6e29-440c-8394-0917b9c34e09)
+![Ekran Resmi 2024-04-04 21 22 55](https://github.com/safak45xx/Blurfox/assets/141409983/88bb3e4a-8696-4021-b751-e04681d5bc9d)
 
-![Ekran Resmi 2024-02-28 07 13 17](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/74fbac5a-944d-45bd-aab5-0d7919e35036)
-
-
-                  
+![Ekran Resmi 2024-04-04 21 23 22](https://github.com/safak45xx/Blurfox/assets/141409983/a1438f1e-bef8-4885-8745-91e3df70055e)
+ 
   [![Github All Release](https://img.shields.io/github/downloads/safak45xx/Blurfox-MacOS-/total.svg)]() ![GitHub Release](https://img.shields.io/github/v/release/safak45xx/Blurfox-MacOS-)
  [![Build Status](https://img.shields.io/github/stars/safak45xx/Blurfox-MacOS-.svg)](https://github.com/safak45xx/Blurfox-MacOS-) 
  
