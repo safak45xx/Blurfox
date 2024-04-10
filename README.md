@@ -7,7 +7,10 @@
 
 ![Ekran Resmi 2024-04-10 14 56 15](https://github.com/safak45xx/Blurfox/assets/141409983/b3dc1889-9805-467d-8044-d85f837c589f)
 
- 
+
+https://github.com/safak45xx/Blurfox/assets/141409983/cf528813-8ca8-4a1f-9ba1-f59f237bf625
+
+
   [![Github All Release](https://img.shields.io/github/downloads/safak45xx/Blurfox-MacOS-/total.svg)]() ![GitHub Release](https://img.shields.io/github/v/release/safak45xx/Blurfox-MacOS-)
  [![Build Status](https://img.shields.io/github/stars/safak45xx/Blurfox-MacOS-.svg)](https://github.com/safak45xx/Blurfox-MacOS-) 
  
