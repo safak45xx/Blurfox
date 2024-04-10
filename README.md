@@ -45,6 +45,10 @@ Currently active websites
 ------------------
 **Custom Extensions**
 
+[Video Speed Controller](https://addons.mozilla.org/en-US/firefox/addon/videospeed)
+
+![Ekran Resmi 2024-04-10 14 20 25](https://github.com/safak45xx/Blurfox/assets/141409983/d1a7f2d0-c940-4860-a8f1-90f8f1738a0f)
+
 [TWP - Translate Web Pages](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 ![dasdas](https://github.com/safak45xx/Blurfox-MacOS-/assets/141409983/3cc03a77-b9ad-4077-94b8-09f9a48c25ea)
